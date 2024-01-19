@@ -36,3 +36,6 @@ body {
 .container p {
     margin: 0.5em;
 }
+#txt_cabecera {
+    font-size:1.5em;
+}

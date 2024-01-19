@@ -14,6 +14,7 @@ body {
     text-align: left;
     border: 1px solid #8f8686;
     margin: 0 auto;
+    background-color: aquamarine;
 }
 #cabecera {
     background-color: rgb(43, 43, 205);

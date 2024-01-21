@@ -1,4 +1,6 @@
-
+*{
+    box-sizing: border-box;
+}
 
 body {
     text-align: center;
@@ -38,4 +40,14 @@ body {
 }
 #txt_cabecera {
     font-size:1.5em;
+}
+footer {
+    background-color: #777;
+    color: white;
+    width: 70%;
+    margin: 0 auto;
+    border: 1px solid #8f8686;
+    text-align: right;
+    font-weight: bold;
+    padding: 0.5em;
 }

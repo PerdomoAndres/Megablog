@@ -51,8 +51,8 @@ body {
     font-size:1.2em;
 }
 footer {
-    background-color: #777;
-    color: white;
+    background-color: rgb(254, 254, 254);
+    color: rgb(54, 20, 169);
     width: 70%;
     margin: 0 auto;
     border: 1px solid #8f8686;
